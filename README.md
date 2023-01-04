@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/NNVWeKWyh2p026Or91/giphy.gif" width="200"/> 
   <h1 align="center"> Hi 👋, I am Maria Varuska <hi>
-    <h2>https://varuska.github.io/portfolio/</h2>
+    
   <h3 align="center"> 
 I am a Venezuelan back-end developer, I have been living in Brazil since 2017. I am also a graduate in petroleum engineering.
 I love programming from the first moment I met him. </h3>
@@ -35,6 +35,9 @@ I love programming from the first moment I met him. </h3>
     </div>
   
  <hr/>
+    
+    
+    <h2>https://varuska.github.io/portfolio/</h2>
     
    ...
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Varuska&theme=violet-dark&border_radius=3.7&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
